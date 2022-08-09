@@ -1,4 +1,4 @@
-{
+[{
     "Nome": "Bala de Banana sem Açúcar",
     "ValorCompra": 14.5,
     "ValorVenda": 24
@@ -277,9 +277,9 @@
     "Nome": "Salaminho Italiano Fatiado 500g",
     "ValorCompra": 38,
     "ValorVenda": 70
-}
+},
 {
     "Nome": "Salaminho Tradicional Pimenta Biquinho/Azeitona 300g (Atacarne)",
     "ValorCompra": 14,
     "ValorVenda": 28
-}
+}]
